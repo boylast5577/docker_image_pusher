@@ -4,3 +4,4 @@ kasmweb/nginx:1.25.3
 chatgptweb/chatgpt-web:latest
 mongo
 mongo-express:1.0.0-alpha
+zabbix/zabbix-server-mysql
