@@ -6,3 +6,4 @@ mongo
 mongo-express:1.0.0-alpha
 zabbix/zabbix-server-mysql
 bitwardenrs/server:latest
+pixman/pixman:latest
